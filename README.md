@@ -1,3 +1,5 @@
+[[./assets/silicon_3d_banner.svg]](https://niranjankumarkatragadda.github.io)
+
 <div align="center">
   <h1>Hi there, I'm Niranjankumar Katragadda 👋</h1>
   <h3>Physical Design Engineer | Founder & Principal Verification Engineer at <a href="https://niranjankumarkatragadda.github.io">NK Verif Labs</a></h3>
