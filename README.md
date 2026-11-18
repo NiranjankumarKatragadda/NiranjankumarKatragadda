@@ -1,4 +1,4 @@
-[[./assets/silicon_3d_banner.svg]](https://niranjankumarkatragadda.github.io)
+<p align="center"><a href="https://niranjankumarkatragadda.github.io"><img src="./assets/silicon_3d_banner.svg" alt="NK Verif Labs 3D Silicon Portfolio" width="100%" /></a></p>
 
 <div align="center">
   <h1>Hi there, I'm Niranjankumar Katragadda 👋</h1>
