@@ -42,18 +42,18 @@ I specialize in **Digital IP Functional Verification (SystemVerilog / Cocotb)** 
 
 ---
 
-### 🚀 Featured Open-Source Projects
+### 🚀 Featured Open-Source Projects</h3>
+<table><thead><tr><th>Project</th><th>Target / Stack</th><th>Proof</th></tr></thead><tbody>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/riscv-rv32i-physical-design">riscv-rv32i-physical-design</a></td><td>Sky130 · OpenLane</td><td>13/13 cf-precheck PASS</td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/ihp-sg13g2-systolic-array">ihp-sg13g2-systolic-array</a></td><td>IHP SG13G2 · LibreLane + Cocotb</td><td><img src="https://github.com/NiranjankumarKatragadda/ihp-sg13g2-systolic-array/actions/workflows/ci.yml/badge.svg"/></td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/ihp-sg13g2-axi4-dma">ihp-sg13g2-axi4-dma</a></td><td>IHP SG13G2 · 16-Beat INCR + cocotbext-axi</td><td><img src="https://github.com/NiranjankumarKatragadda/ihp-sg13g2-axi4-dma/actions/workflows/ci.yml/badge.svg"/></td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/noc-mesh-4x4-cocotb-vip">noc-mesh-4x4-cocotb-vip</a> · <a href="https://niranjankumarkatragadda.github.io/noc-mesh-3d.html">3D Demo</a></td><td>16-Tile XY NoC · Verilator + Icarus</td><td><img src="https://github.com/NiranjankumarKatragadda/noc-mesh-4x4-cocotb-vip/actions/workflows/ci.yml/badge.svg"/></td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/serdes-8b10b-prbs-cocotb-vip">serdes-8b10b-prbs-cocotb-vip</a></td><td>K28.5 + PRBS-7/31 · Verilator + Icarus</td><td><img src="https://github.com/NiranjankumarKatragadda/serdes-8b10b-prbs-cocotb-vip/actions/workflows/ci.yml/badge.svg"/></td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/axis-skid-arbiter-cocotb-vip">axis-skid-arbiter-cocotb-vip</a></td><td>AXI4-Stream RR + Skid · cocotbext-axi</td><td><img src="https://github.com/NiranjankumarKatragadda/axis-skid-arbiter-cocotb-vip/actions/workflows/ci.yml/badge.svg"/></td></tr>
+<tr><td><a href="https://github.com/NiranjankumarKatragadda/async-cdc-fifo-cocotb-vip">async-cdc-fifo-cocotb-vip</a></td><td>Gray-Code CDC FIFO · 100/71.4 MHz</td><td><img src="https://github.com/NiranjankumarKatragadda/async-cdc-fifo-cocotb-vip/actions/workflows/ci.yml/badge.svg"/></td></tr>
+</tbody></table>
 
-* **[cocotb-axi-lite-verification](https://github.com/NiranjankumarKatragadda/cocotb-axi-lite-verification)** – Python-based AMBA AXI-Lite functional verification framework using Cocotb, Icarus Verilog, and automated GitHub CI.
-* **[cocotb-apb-protocol-checker](https://github.com/NiranjankumarKatragadda/cocotb-apb-protocol-checker)** – Assertion-based ARM APB3 interface protocol checker and verification monitor using Cocotb.
-* **[cocotb-fifo-verification](https://github.com/NiranjankumarKatragadda/cocotb-fifo-verification)** – Automated functional verification testbench & CI regression suite for synchronous/asynchronous FIFOs via Cocotb.
-* **[riscv-rv32i-physical-design](https://github.com/NiranjankumarKatragadda/riscv-rv32i-physical-design)** – Complete RTL-to-GDSII physical implementation & STA timing closure for a 5-stage RV32I core on SkyWater 130nm.
-* **[ihp-sg13g2-systolic-array](https://github.com/NiranjankumarKatragadda/ihp-sg13g2-systolic-array)** – 4x4 Systolic Array MAC Accelerator: RTL-to-GDSII physical implementation on IHP SG13G2 (130nm BiCMOS) using LibreLane.
-* **[vlsi-physical-design-project](https://github.com/NiranjankumarKatragadda/vlsi-physical-design-project)** – OpenLane / OpenROAD physical design flow targeting SkyWater 130nm PDK for a PicoRV32 SoC and UART.
-
----
-
-### 📊 GitHub Activity & Language Breakdown
+<h3>📊 GitHub Activity & Language Breakdown
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NiranjankumarKatragadda/NiranjankumarKatragadda/main/github-metrics.svg" alt="Niranjankumar GitHub Metrics" />
